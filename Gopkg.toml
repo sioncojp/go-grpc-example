@@ -32,3 +32,8 @@
 [[constraint]]
   name = "google.golang.org/grpc"
   version = "1.6.0"
+
+### https://github.com/coreos/etcd/issues/7772
+[[constraint]]
+  name = "github.com/grpc-ecosystem/grpc-gateway"
+  branch = "master"
