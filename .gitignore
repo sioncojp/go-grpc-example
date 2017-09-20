@@ -1,0 +1,12 @@
+_vendor
+.vendor
+vendor
+bin/go-grpc-example
+
+tmp/*
+
+### Other ###
+.idea/
+
+### .gitkeep ###
+!.gitkeep
